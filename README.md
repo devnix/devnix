@@ -10,46 +10,46 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) - Redsys driver for the Omnipay PHP payment processing library (today)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) - PHPStan&#39;s source code. This is where development happens. Check https://github.com/phpstan/phpstan for the distribution repository. (4 days ago)
-- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) - Symfony bundle integrating Flysystem into Symfony applications (2 weeks ago)
-- [devnix/php-skills](https://github.com/devnix/php-skills) - A collection of Claude Code agent skills for PHP development (1 month ago)
-- [devnix/skeleton-php](https://github.com/devnix/skeleton-php) -  (2 months ago)
-- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) - An opinionanted Symfony Skeleton (2 months ago)
-- [neutomic/neutomic](https://github.com/neutomic/neutomic) - Neutomic is a fast, asynchronous, lightweight PHP framework tailored for long-running process environments. (2 months ago)
-- [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator) -  (2 months ago)
-- [neutomic/skeleton](https://github.com/neutomic/skeleton) - A minimal Neutomic project recommended to create simple web applications (2 months ago)
-- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) - AI-slopped Google Chrome extension to export Microsoft Teams channel threads to plain text (2 months ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (today)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 days ago)
+- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 weeks ago)
+- [devnix/php-skills](https://github.com/devnix/php-skills) (1 month ago)
+- [devnix/skeleton-php](https://github.com/devnix/skeleton-php) (2 months ago)
+- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (2 months ago)
+- [neutomic/neutomic](https://github.com/neutomic/neutomic) (2 months ago)
+- [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator) (2 months ago)
+- [neutomic/skeleton](https://github.com/neutomic/skeleton) (2 months ago)
+- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) (2 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 2 weeks ago) - Symfony bundle integrating Flysystem into Symfony applications
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.1.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.1.1), 1 month ago) - PHP Standard Library
-- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 1 month ago) - PHPStan Integration for PHP Standard Library
-- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 2 months ago) - AI-slopped Google Chrome extension to export Microsoft Teams channel threads to plain text
-- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 3 months ago) - A tool to extract uncovered lines from Clover code coverage reports.
-- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 4 months ago) - 
-- [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 6 months ago) - Serialized data of Italian Belfiore codes and foreign country codes
-- [phluxcp/operating-system](https://github.com/phluxcp/operating-system) ([0.1.1](https://github.com/phluxcp/operating-system/releases/tag/0.1.1), 7 months ago) - 
-- [devnix/m49-country-codes](https://github.com/devnix/m49-country-codes) ([0.1](https://github.com/devnix/m49-country-codes/releases/tag/0.1), 7 months ago) - List of actual and old m49 country codes to ISO 3166-1 alpha-2
-- [devnix/openai-proxy](https://github.com/devnix/openai-proxy) ([0.1](https://github.com/devnix/openai-proxy/releases/tag/0.1), 8 months ago) - OpenAI HTTP proxy made in PHP with Amp
+- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 2 weeks ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.1.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.1.1), 1 month ago)
+- [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 1 month ago)
+- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 2 months ago)
+- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 3 months ago)
+- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 4 months ago)
+- [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 6 months ago)
+- [phluxcp/operating-system](https://github.com/phluxcp/operating-system) ([0.1.1](https://github.com/phluxcp/operating-system/releases/tag/0.1.1), 7 months ago)
+- [devnix/m49-country-codes](https://github.com/devnix/m49-country-codes) ([0.1](https://github.com/devnix/m49-country-codes/releases/tag/0.1), 7 months ago)
+- [devnix/openai-proxy](https://github.com/devnix/openai-proxy) ([0.1](https://github.com/devnix/openai-proxy/releases/tag/0.1), 8 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
-- [devnix/php-skills](https://github.com/devnix/php-skills) - A collection of Claude Code agent skills for PHP development
-- [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator) - 
-- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) - AI-slopped Google Chrome extension to export Microsoft Teams channel threads to plain text
-- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) - A tool to extract uncovered lines from Clover code coverage reports.
-- [devnix/blog](https://github.com/devnix/blog) - This was never supposed to make it all the way to production
-- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) - An opinionanted Symfony Skeleton
-- [devnix/skeleton-php](https://github.com/devnix/skeleton-php) - 
-- [devnix/m49-country-codes](https://github.com/devnix/m49-country-codes) - List of actual and old m49 country codes to ISO 3166-1 alpha-2
-- [devnix/openai-proxy](https://github.com/devnix/openai-proxy) - OpenAI HTTP proxy made in PHP with Amp
-- [devnix/neutomic-twitch-game](https://github.com/devnix/neutomic-twitch-game) - A little game made in Neutomic for Twitch
+- [devnix/php-skills](https://github.com/devnix/php-skills)
+- [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator)
+- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter)
+- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines)
+- [devnix/blog](https://github.com/devnix/blog)
+- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony)
+- [devnix/skeleton-php](https://github.com/devnix/skeleton-php)
+- [devnix/m49-country-codes](https://github.com/devnix/m49-country-codes)
+- [devnix/openai-proxy](https://github.com/devnix/openai-proxy)
+- [devnix/neutomic-twitch-game](https://github.com/devnix/neutomic-twitch-game)
 
 ---
 
@@ -79,5 +79,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - LinkedIn: [pablolargomohedano](https://www.linkedin.com/in/pablolargomohedano/)
 - Mastodon: [@devnix@phpc.social](https://phpc.social/@devnix)
 - Email: [devnix.code@gmail.com](mailto:devnix.code@gmail.com)
+- Keybase: [devnix](https://keybase.io/devnix)
 
 
