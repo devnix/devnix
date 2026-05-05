@@ -10,21 +10,21 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
 {{- end}}
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
 {{- end}}
 
 ---
 
 #### 🌱 My latest projects
 {{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}})
 {{- end}}
 
 ---
@@ -49,5 +49,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - LinkedIn: [pablolargomohedano](https://www.linkedin.com/in/pablolargomohedano/)
 - Mastodon: [@devnix@phpc.social](https://phpc.social/@devnix)
 - Email: [devnix.code@gmail.com](mailto:devnix.code@gmail.com)
+- Keybase: [devnix](https://keybase.io/devnix)
 
 <!-- comments will be preserved -->
