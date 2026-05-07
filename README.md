@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 day ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (today)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 days ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 weeks ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (1 month ago)
@@ -25,6 +25,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), today)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 3 weeks ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.1.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.1.1), 1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 1 month ago)
@@ -34,7 +35,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 6 months ago)
 - [phluxcp/operating-system](https://github.com/phluxcp/operating-system) ([0.1.1](https://github.com/phluxcp/operating-system/releases/tag/0.1.1), 7 months ago)
 - [devnix/m49-country-codes](https://github.com/devnix/m49-country-codes) ([0.1](https://github.com/devnix/m49-country-codes/releases/tag/0.1), 7 months ago)
-- [devnix/openai-proxy](https://github.com/devnix/openai-proxy) ([0.1](https://github.com/devnix/openai-proxy/releases/tag/0.1), 8 months ago)
 
 ---
 
