@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (3 days ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (4 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 weeks ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (1 month ago)
@@ -25,12 +25,12 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 3 days ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 4 days ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 3 weeks ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.1.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.1.1), 1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 1 month ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 2 months ago)
-- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 3 months ago)
+- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 4 months ago)
 - [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 4 months ago)
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 6 months ago)
 - [phluxcp/operating-system](https://github.com/phluxcp/operating-system) ([0.1.1](https://github.com/phluxcp/operating-system/releases/tag/0.1.1), 7 months ago)
@@ -55,7 +55,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (1 week ago)
+- [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (2 weeks ago)
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 weeks ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5422) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
