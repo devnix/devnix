@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (5 days ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (6 days ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 week ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 weeks ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (1 month ago)
@@ -19,17 +19,17 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [neutomic/neutomic](https://github.com/neutomic/neutomic) (2 months ago)
 - [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator) (2 months ago)
 - [neutomic/skeleton](https://github.com/neutomic/skeleton) (2 months ago)
-- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) (2 months ago)
+- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) (3 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 5 days ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 6 days ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 3 weeks ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.1.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.1.1), 1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 1 month ago)
-- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 2 months ago)
+- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 3 months ago)
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 4 months ago)
 - [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 4 months ago)
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 6 months ago)
