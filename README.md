@@ -40,6 +40,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🌱 My latest projects
 
+- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license)
+- [devnix/chiskillto](https://github.com/devnix/chiskillto)
 - [devnix/php-skills](https://github.com/devnix/php-skills)
 - [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter)
@@ -48,8 +50,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony)
 - [devnix/skeleton-php](https://github.com/devnix/skeleton-php)
 - [devnix/m49-country-codes](https://github.com/devnix/m49-country-codes)
-- [devnix/openai-proxy](https://github.com/devnix/openai-proxy)
-- [devnix/neutomic-twitch-game](https://github.com/devnix/neutomic-twitch-game)
 
 ---
 
