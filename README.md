@@ -10,6 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
+- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (today)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (2 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 weeks ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (1 month ago)
@@ -17,9 +18,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (2 months ago)
 - [devnix/skeleton-php](https://github.com/devnix/skeleton-php) (2 months ago)
 - [neutomic/neutomic](https://github.com/neutomic/neutomic) (2 months ago)
-- [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator) (2 months ago)
 - [neutomic/skeleton](https://github.com/neutomic/skeleton) (2 months ago)
-- [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) (3 months ago)
+- [devnix/redsys-simulator](https://github.com/devnix/redsys-simulator) (2 months ago)
 
 ---
 
