@@ -10,9 +10,9 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/chiskillto](https://github.com/devnix/chiskillto) (5 days ago)
-- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (5 days ago)
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (2 weeks ago)
+- [devnix/chiskillto](https://github.com/devnix/chiskillto) (6 days ago)
+- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (6 days ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (3 weeks ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 weeks ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (1 month ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (1 month ago)
@@ -25,8 +25,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 4 days ago)
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 2 weeks ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 5 days ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 3 weeks ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 2 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 3 months ago)
@@ -64,7 +64,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [Make `Option` covariant](https://github.com/php-standard-library/phpstan-extension/pull/26) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (5 months ago)
 - [feat(filterable): new Filterable component](https://github.com/php-standard-library/php-standard-library/pull/558) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (5 months ago)
 - [feat(option,result): casting between `Option` and `Result`](https://github.com/php-standard-library/php-standard-library/pull/557) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (5 months ago)
-- [More precise types after `Option::filter()`](https://github.com/php-standard-library/phpstan-extension/pull/25) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (5 months ago)
+- [More precise types after `Option::filter()`](https://github.com/php-standard-library/phpstan-extension/pull/25) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (6 months ago)
 
 ---
 
