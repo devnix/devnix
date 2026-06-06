@@ -10,10 +10,10 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (1 day ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (2 weeks ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (2 weeks ago)
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (4 weeks ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (1 month ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (2 months ago)
@@ -25,8 +25,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 1 week ago)
-- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 4 weeks ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 2 weeks ago)
+- [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 2 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 3 months ago)
@@ -57,8 +57,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (1 month ago)
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (1 month ago)
-- [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
-- [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5422) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
+- [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
+- [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5422) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [Propose stricter types por SplFileInfo](https://github.com/phpstan/phpstan-src/pull/4794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 months ago)
 - [revert(option): revert #475](https://github.com/php-standard-library/php-standard-library/pull/560) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (5 months ago)
 - [Make `Option` covariant](https://github.com/php-standard-library/phpstan-extension/pull/26) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (6 months ago)
