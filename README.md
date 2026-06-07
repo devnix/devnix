@@ -10,15 +10,15 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (2 weeks ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (2 weeks ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (1 month ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (2 months ago)
-- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (3 months ago)
 - [devnix/skeleton-php](https://github.com/devnix/skeleton-php) (3 months ago)
+- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (3 months ago)
 - [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 months ago)
 
 ---
