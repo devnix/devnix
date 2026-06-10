@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (1 day ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (2 weeks ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (2 weeks ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 month ago)
@@ -30,7 +30,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 2 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 3 months ago)
-- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 4 months ago)
+- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 5 months ago)
 - [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 5 months ago)
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 7 months ago)
 - [phluxcp/operating-system](https://github.com/phluxcp/operating-system) ([0.1.1](https://github.com/phluxcp/operating-system/releases/tag/0.1.1), 8 months ago)
