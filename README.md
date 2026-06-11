@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (2 weeks ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (2 weeks ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 month ago)
@@ -25,6 +25,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
+- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.1.1](https://github.com/devnix/burnbar/releases/tag/0.1.1), today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 2 weeks ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 1 month ago)
@@ -34,7 +35,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 5 months ago)
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 7 months ago)
 - [phluxcp/operating-system](https://github.com/phluxcp/operating-system) ([0.1.1](https://github.com/phluxcp/operating-system/releases/tag/0.1.1), 8 months ago)
-- [devnix/m49-country-codes](https://github.com/devnix/m49-country-codes) ([0.1](https://github.com/devnix/m49-country-codes/releases/tag/0.1), 8 months ago)
 
 ---
 
