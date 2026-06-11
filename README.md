@@ -2,6 +2,9 @@ Hi, I'm devnix 👋
 
 I'm a software developer who enjoys open source and talking about PHP. A few things I've made:
 
+- [burnbar](https://github.com/devnix/burnbar) — Rich statusline for Claude Code: context window progress bar and cache TTL countdown
+- [chiskillto](https://github.com/devnix/chiskillto) — Claude Code plugin that makes Claude speak like Chiquito de la Calzada
+- [fistro-public-license](https://github.com/devnix/fistro-public-license) — A humorous but legally binding open source license inspired by Chiquito de la Calzada
 - [clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) — Extract uncovered lines from Clover code coverage reports
 - [belfiore-code](https://github.com/devnix/belfiore-code) — Serialized dataset of Italian Belfiore codes and foreign country codes
 - [Async PHP in Traditional Environments](https://github.com/devnix/talk-async-php-in-traditional-environments) — Conference talk: running async PHP without rewriting your whole stack
