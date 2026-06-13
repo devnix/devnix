@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (today)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (1 day ago)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (3 weeks ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (3 weeks ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 month ago)
@@ -25,8 +25,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 1 day ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 2 weeks ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 2 days ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 3 weeks ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.0](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.0), 1 month ago)
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 2 months ago)
