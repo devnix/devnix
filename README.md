@@ -10,9 +10,9 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (6 days ago)
-- [devnix/chiskillto](https://github.com/devnix/chiskillto) (3 weeks ago)
-- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (3 weeks ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
+- [devnix/chiskillto](https://github.com/devnix/chiskillto) (4 weeks ago)
+- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (4 weeks ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 months ago)
@@ -59,7 +59,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 months ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5422) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
-- [Propose stricter types por SplFileInfo](https://github.com/phpstan/phpstan-src/pull/4794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 months ago)
+- [Propose stricter types por SplFileInfo](https://github.com/phpstan/phpstan-src/pull/4794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 months ago)
 - [revert(option): revert #475](https://github.com/php-standard-library/php-standard-library/pull/560) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (6 months ago)
 - [Make `Option` covariant](https://github.com/php-standard-library/phpstan-extension/pull/26) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (6 months ago)
 - [feat(filterable): new Filterable component](https://github.com/php-standard-library/php-standard-library/pull/558) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (6 months ago)
