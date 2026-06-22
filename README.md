@@ -11,20 +11,21 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 #### 💻 What I'm currently working on
 
 - [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
-- [devnix/chiskillto](https://github.com/devnix/chiskillto) (1 month ago)
+- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (2 weeks ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (1 month ago)
+- [devnix/chiskillto](https://github.com/devnix/chiskillto) (1 month ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (1 month ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 months ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (2 months ago)
 - [devnix/skeleton-php](https://github.com/devnix/skeleton-php) (3 months ago)
 - [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (3 months ago)
-- [neutomic/neutomic](https://github.com/neutomic/neutomic) (4 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), today)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 1 week ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 1 month ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 1 month ago)
@@ -34,7 +35,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 5 months ago)
 - [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 6 months ago)
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 8 months ago)
-- [phluxcp/operating-system](https://github.com/phluxcp/operating-system) ([0.1.1](https://github.com/phluxcp/operating-system/releases/tag/0.1.1), 8 months ago)
 
 ---
 
