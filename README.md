@@ -18,14 +18,14 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 months ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (2 months ago)
-- [devnix/skeleton-php](https://github.com/devnix/skeleton-php) (3 months ago)
-- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (3 months ago)
+- [devnix/skeleton-php](https://github.com/devnix/skeleton-php) (4 months ago)
+- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (4 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), today)
+- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), 1 day ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 1 week ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 1 month ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 1 month ago)
