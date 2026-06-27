@@ -25,7 +25,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), 4 days ago)
+- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), 5 days ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 2 weeks ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 1 month ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 1 month ago)
@@ -64,7 +64,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [Make `Option` covariant](https://github.com/php-standard-library/phpstan-extension/pull/26) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (6 months ago)
 - [feat(filterable): new Filterable component](https://github.com/php-standard-library/php-standard-library/pull/558) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (6 months ago)
 - [feat(option,result): casting between `Option` and `Result`](https://github.com/php-standard-library/php-standard-library/pull/557) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (6 months ago)
-- [More precise types after `Option::filter()`](https://github.com/php-standard-library/phpstan-extension/pull/25) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (6 months ago)
+- [More precise types after `Option::filter()`](https://github.com/php-standard-library/phpstan-extension/pull/25) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (7 months ago)
 
 ---
 
