@@ -10,6 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
+- [devnix/skills](https://github.com/devnix/skills) (today)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (4 weeks ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (1 month ago)
@@ -18,7 +19,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 months ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (3 months ago)
-- [devnix/skeleton-php](https://github.com/devnix/skeleton-php) (4 months ago)
 - [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (4 months ago)
 
 ---
@@ -40,6 +40,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🌱 My latest projects
 
+- [devnix/skills](https://github.com/devnix/skills)
 - [devnix/burnbar](https://github.com/devnix/burnbar)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto)
@@ -49,7 +50,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines)
 - [devnix/blog](https://github.com/devnix/blog)
 - [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony)
-- [devnix/skeleton-php](https://github.com/devnix/skeleton-php)
 
 ---
 
