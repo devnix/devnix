@@ -33,7 +33,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 3 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 5 months ago)
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 6 months ago)
-- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 6 months ago)
+- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 7 months ago)
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 8 months ago)
 
 ---
@@ -55,7 +55,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (1 day ago)
+- [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (2 days ago)
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (2 months ago)
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (2 months ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
