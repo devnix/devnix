@@ -55,7 +55,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (5 days ago)
+- [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (6 days ago)
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (2 months ago)
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 months ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
