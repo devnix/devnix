@@ -19,7 +19,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 months ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (3 months ago)
-- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (4 months ago)
+- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (5 months ago)
 
 ---
 
