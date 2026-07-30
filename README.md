@@ -16,7 +16,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (2 months ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (2 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (2 months ago)
-- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (2 months ago)
+- [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 months ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (4 months ago)
 - [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (5 months ago)
@@ -62,7 +62,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5422) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
 - [Propose stricter types por SplFileInfo](https://github.com/phpstan/phpstan-src/pull/4794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 months ago)
 - [revert(option): revert #475](https://github.com/php-standard-library/php-standard-library/pull/560) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (7 months ago)
-- [Make `Option` covariant](https://github.com/php-standard-library/phpstan-extension/pull/26) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (7 months ago)
+- [Make `Option` covariant](https://github.com/php-standard-library/phpstan-extension/pull/26) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (8 months ago)
 - [feat(filterable): new Filterable component](https://github.com/php-standard-library/php-standard-library/pull/558) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (8 months ago)
 - [feat(option,result): casting between `Option` and `Result`](https://github.com/php-standard-library/php-standard-library/pull/557) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (8 months ago)
 
