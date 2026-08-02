@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/skills](https://github.com/devnix/skills) (4 weeks ago)
+- [devnix/skills](https://github.com/devnix/skills) (1 month ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (1 month ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (1 month ago)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (2 months ago)
@@ -55,8 +55,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 day ago)
-- [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (2 weeks ago)
+- [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
+- [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 weeks ago)
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (3 months ago)
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 months ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
