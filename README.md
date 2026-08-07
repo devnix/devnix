@@ -55,7 +55,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (6 days ago)
+- [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (1 week ago)
 - [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 weeks ago)
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (3 months ago)
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 months ago)
