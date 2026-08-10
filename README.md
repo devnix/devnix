@@ -10,6 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (today)
 - [devnix/skills](https://github.com/devnix/skills) (1 month ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (1 month ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (2 months ago)
@@ -19,12 +20,12 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (3 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (3 months ago)
 - [devnix/php-skills](https://github.com/devnix/php-skills) (4 months ago)
-- [devnix/skeleton-symfony](https://github.com/devnix/skeleton-symfony) (5 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.5.1](https://github.com/CuyZ/Valinor/releases/tag/2.5.1), 1 week ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), 1 month ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 2 months ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 2 months ago)
@@ -34,7 +35,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 5 months ago)
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 7 months ago)
 - [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 7 months ago)
-- [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 9 months ago)
 
 ---
 
