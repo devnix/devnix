@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 days ago)
 - [devnix/skills](https://github.com/devnix/skills) (1 month ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (2 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (2 months ago)
@@ -25,8 +25,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 1 day ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0), 1 day ago)
+- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 2 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0), 2 days ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), 1 month ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 2 months ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 2 months ago)
@@ -34,7 +34,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) ([2.1.0](https://github.com/php-standard-library/phpstan-extension/releases/tag/2.1.0), 4 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 6 months ago)
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 7 months ago)
-- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 7 months ago)
+- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 8 months ago)
 
 ---
 
