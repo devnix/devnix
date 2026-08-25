@@ -25,8 +25,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 1 week ago)
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0), 1 week ago)
+- [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 2 weeks ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0), 2 weeks ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.1](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.1), 2 months ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 2 months ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.2.1](https://github.com/php-standard-library/php-standard-library/releases/tag/6.2.1), 3 months ago)
@@ -57,7 +57,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 - [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 weeks ago)
 - [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (1 month ago)
-- [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (3 months ago)
+- [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (4 months ago)
 - [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (4 months ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 months ago)
 - [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5422) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (4 months ago)
