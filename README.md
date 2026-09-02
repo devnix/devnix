@@ -13,7 +13,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 weeks ago)
 - [devnix/skills](https://github.com/devnix/skills) (2 months ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (2 months ago)
-- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (2 months ago)
+- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (3 months ago)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (3 months ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (3 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (3 months ago)
