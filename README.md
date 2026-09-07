@@ -10,7 +10,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 weeks ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (4 weeks ago)
 - [devnix/skills](https://github.com/devnix/skills) (2 months ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (2 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (3 months ago)
