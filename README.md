@@ -25,7 +25,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.3.0](https://github.com/php-standard-library/php-standard-library/releases/tag/6.3.0), 1 day ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.3.0](https://github.com/php-standard-library/php-standard-library/releases/tag/6.3.0), 2 days ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 2 weeks ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 1 month ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0), 1 month ago)
@@ -64,7 +64,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [Propose stricter types por SplFileInfo](https://github.com/phpstan/phpstan-src/pull/4794) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (8 months ago)
 - [revert(option): revert #475](https://github.com/php-standard-library/php-standard-library/pull/560) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (9 months ago)
 - [Make `Option` covariant](https://github.com/php-standard-library/phpstan-extension/pull/26) on [php-standard-library/phpstan-extension](https://github.com/php-standard-library/phpstan-extension) (9 months ago)
-- [feat(filterable): new Filterable component](https://github.com/php-standard-library/php-standard-library/pull/558) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (9 months ago)
+- [feat(filterable): new Filterable component](https://github.com/php-standard-library/php-standard-library/pull/558) on [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) (10 months ago)
 
 ---
 
