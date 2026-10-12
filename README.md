@@ -14,8 +14,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [devnix/skills](https://github.com/devnix/skills) (3 months ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (4 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (4 months ago)
-- [devnix/chiskillto](https://github.com/devnix/chiskillto) (4 months ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (4 months ago)
+- [devnix/chiskillto](https://github.com/devnix/chiskillto) (4 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (5 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (5 months ago)
@@ -33,7 +33,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 5 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 8 months ago)
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 9 months ago)
-- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 9 months ago)
+- [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 10 months ago)
 - [devnix/belfiore-code](https://github.com/devnix/belfiore-code) ([0.3.2](https://github.com/devnix/belfiore-code/releases/tag/0.3.2), 11 months ago)
 
 ---
