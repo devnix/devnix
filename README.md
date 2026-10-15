@@ -10,9 +10,9 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
+- [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [devnix/skills](https://github.com/devnix/skills) (3 months ago)
-- [devnix/burnbar](https://github.com/devnix/burnbar) (4 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (4 months ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (4 months ago)
 - [devnix/chiskillto](https://github.com/devnix/chiskillto) (4 months ago)
