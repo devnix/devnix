@@ -56,6 +56,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
+- [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (today)
+- [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [feat: make the cache bar optional, flash the countdown on expiry](https://github.com/devnix/burnbar/pull/7) on [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (today)
@@ -64,8 +66,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 months ago)
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (5 months ago)
-- [Remove internal annotation from FlysystemBundle](https://github.com/thephpleague/flysystem-bundle/pull/208) on [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (6 months ago)
-- [More concrete return type for `opcache_get_configuration`](https://github.com/phpstan/phpstan-src/pull/5424) on [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 months ago)
 
 ---
 
