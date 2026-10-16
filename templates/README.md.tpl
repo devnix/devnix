@@ -2,6 +2,7 @@ Hi, I'm devnix 👋
 
 I'm a software developer who enjoys open source and talking about PHP. A few things I've made:
 
+- [burnbar](https://github.com/devnix/burnbar) — Rich statusline plugin for Claude Code: context window progress bar, token usage, and cost tracking
 - [clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) — Extract uncovered lines from Clover code coverage reports
 - [belfiore-code](https://github.com/devnix/belfiore-code) — Serialized dataset of Italian Belfiore codes and foreign country codes
 - [Async PHP in Traditional Environments](https://github.com/devnix/talk-async-php-in-traditional-environments) — Conference talk: running async PHP without rewriting your whole stack
