@@ -11,12 +11,12 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (1 day ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [devnix/skills](https://github.com/devnix/skills) (3 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (4 months ago)
-- [devnix/chiskillto](https://github.com/devnix/chiskillto) (4 months ago)
-- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (4 months ago)
+- [devnix/chiskillto](https://github.com/devnix/chiskillto) (5 months ago)
+- [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (5 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (5 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (6 months ago)
@@ -56,13 +56,13 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
-- [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
-- [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
-- [feat: make the cache bar optional, flash the countdown on expiry](https://github.com/devnix/burnbar/pull/7) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
-- [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
-- [feat: notify 5 minutes before cache expiry, detect the TTL per API call](https://github.com/devnix/burnbar/pull/5) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
-- [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
+- [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [feat: make the cache bar optional, flash the countdown on expiry](https://github.com/devnix/burnbar/pull/7) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [feat: notify 5 minutes before cache expiry, detect the TTL per API call](https://github.com/devnix/burnbar/pull/5) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
 - [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 months ago)
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (5 months ago)
