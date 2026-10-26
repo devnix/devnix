@@ -20,7 +20,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (5 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (5 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (6 months ago)
-- [devnix/php-skills](https://github.com/devnix/php-skills) (6 months ago)
+- [devnix/php-skills](https://github.com/devnix/php-skills) (7 months ago)
 
 ---
 
