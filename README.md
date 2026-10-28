@@ -11,12 +11,12 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
+- [devnix/skills](https://github.com/devnix/skills) (today)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
-- [devnix/skills](https://github.com/devnix/skills) (3 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (4 months ago)
-- [devnix/chiskillto](https://github.com/devnix/chiskillto) (5 months ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (5 months ago)
+- [devnix/chiskillto](https://github.com/devnix/chiskillto) (5 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (5 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (6 months ago)
