@@ -11,7 +11,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/skills](https://github.com/devnix/skills) (1 day ago)
+- [devnix/skills](https://github.com/devnix/skills) (2 days ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (4 months ago)
@@ -26,7 +26,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 1 day ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 2 days ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 2 months ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0), 2 months ago)
@@ -55,13 +55,13 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
-- [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
-- [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
-- [feat: make the cache bar optional, flash the countdown on expiry](https://github.com/devnix/burnbar/pull/7) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
-- [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
-- [feat: notify 5 minutes before cache expiry, detect the TTL per API call](https://github.com/devnix/burnbar/pull/5) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
-- [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
+- [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
+- [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
+- [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
+- [feat: make the cache bar optional, flash the countdown on expiry](https://github.com/devnix/burnbar/pull/7) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
+- [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
+- [feat: notify 5 minutes before cache expiry, detect the TTL per API call](https://github.com/devnix/burnbar/pull/5) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
+- [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
 - [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 months ago)
 - [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 months ago)
 - [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (6 months ago)
