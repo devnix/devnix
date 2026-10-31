@@ -11,8 +11,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/skills](https://github.com/devnix/skills) (2 days ago)
-- [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (today)
+- [devnix/skills](https://github.com/devnix/skills) (3 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (4 months ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (5 months ago)
@@ -26,11 +26,11 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 2 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.3.0](https://github.com/devnix/burnbar/releases/tag/0.3.0), 1 day ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 3 days ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 2 months ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.0](https://github.com/CuyZ/Valinor/releases/tag/2.6.0), 2 months ago)
-- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.2.2](https://github.com/devnix/burnbar/releases/tag/0.2.2), 4 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 5 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 8 months ago)
 - [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 9 months ago)
@@ -55,6 +55,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
+- [fix!: restart the cache timer only on evidence, never guess the TTL](https://github.com/devnix/burnbar/pull/11) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 day ago)
 - [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
 - [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
 - [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
@@ -64,7 +65,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
 - [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 months ago)
 - [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 months ago)
-- [Fix segfault caused by cross-thread QProcess read in vpnLogger](https://github.com/theinvisible/openfortigui/pull/207) on [theinvisible/openfortigui](https://github.com/theinvisible/openfortigui) (6 months ago)
 
 ---
 
