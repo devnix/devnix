@@ -26,7 +26,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.3.0](https://github.com/devnix/burnbar/releases/tag/0.3.0), 2 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.4.0](https://github.com/devnix/burnbar/releases/tag/0.4.0), today)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 4 days ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 2 months ago)
