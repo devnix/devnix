@@ -11,7 +11,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (1 day ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [devnix/skills](https://github.com/devnix/skills) (4 days ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (5 months ago)
@@ -55,6 +55,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
+- [feat: make every bar optional with a width of 0](https://github.com/devnix/burnbar/pull/13) on [devnix/burnbar](https://github.com/devnix/burnbar) (today)
+- [feat: show the git branch, shorten $HOME to ~ in {cwd}](https://github.com/devnix/burnbar/pull/12) on [devnix/burnbar](https://github.com/devnix/burnbar) (today)
 - [fix!: restart the cache timer only on evidence, never guess the TTL](https://github.com/devnix/burnbar/pull/11) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 days ago)
 - [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
 - [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
@@ -63,8 +65,6 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
 - [feat: notify 5 minutes before cache expiry, detect the TTL per API call](https://github.com/devnix/burnbar/pull/5) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
 - [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
-- [test: add regression tests for scalar value casting with `asRoot`](https://github.com/CuyZ/Valinor/pull/831) on [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 months ago)
-- [chore(ci): migrate static analysis from psalm to mago](https://github.com/neutomic/neutomic/pull/37) on [neutomic/neutomic](https://github.com/neutomic/neutomic) (3 months ago)
 
 ---
 
