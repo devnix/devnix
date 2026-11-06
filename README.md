@@ -11,7 +11,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (3 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (4 days ago)
 - [devnix/skills](https://github.com/devnix/skills) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (5 months ago)
@@ -26,8 +26,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.1](https://github.com/CuyZ/Valinor/releases/tag/2.6.1), 1 day ago)
-- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.4.1](https://github.com/devnix/burnbar/releases/tag/0.4.1), 3 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.1](https://github.com/CuyZ/Valinor/releases/tag/2.6.1), 2 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.4.1](https://github.com/devnix/burnbar/releases/tag/0.4.1), 4 days ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 1 week ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 1 month ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 2 months ago)
@@ -55,16 +55,16 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [feat: make every bar optional with a width of 0](https://github.com/devnix/burnbar/pull/13) on [devnix/burnbar](https://github.com/devnix/burnbar) (4 days ago)
-- [feat: show the git branch, shorten $HOME to ~ in {cwd}](https://github.com/devnix/burnbar/pull/12) on [devnix/burnbar](https://github.com/devnix/burnbar) (4 days ago)
-- [fix!: restart the cache timer only on evidence, never guess the TTL](https://github.com/devnix/burnbar/pull/11) on [devnix/burnbar](https://github.com/devnix/burnbar) (6 days ago)
-- [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
-- [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
-- [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
-- [feat: make the cache bar optional, flash the countdown on expiry](https://github.com/devnix/burnbar/pull/7) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
-- [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
-- [feat: notify 5 minutes before cache expiry, detect the TTL per API call](https://github.com/devnix/burnbar/pull/5) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
-- [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (2 weeks ago)
+- [feat: make every bar optional with a width of 0](https://github.com/devnix/burnbar/pull/13) on [devnix/burnbar](https://github.com/devnix/burnbar) (5 days ago)
+- [feat: show the git branch, shorten $HOME to ~ in {cwd}](https://github.com/devnix/burnbar/pull/12) on [devnix/burnbar](https://github.com/devnix/burnbar) (5 days ago)
+- [fix!: restart the cache timer only on evidence, never guess the TTL](https://github.com/devnix/burnbar/pull/11) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
+- [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
+- [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
+- [feat: alert only on effort and model changes that break the cache](https://github.com/devnix/burnbar/pull/8) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
+- [feat: make the cache bar optional, flash the countdown on expiry](https://github.com/devnix/burnbar/pull/7) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
+- [feat: grow the current turn&#39;s delta live](https://github.com/devnix/burnbar/pull/6) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
+- [feat: notify 5 minutes before cache expiry, detect the TTL per API call](https://github.com/devnix/burnbar/pull/5) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
+- [ci: gate shellcheck at warning level](https://github.com/devnix/burnbar/pull/4) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
 
 ---
 
