@@ -11,7 +11,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 💻 What I'm currently working on
 
-- [devnix/burnbar](https://github.com/devnix/burnbar) (4 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) (5 days ago)
 - [devnix/skills](https://github.com/devnix/skills) (1 week ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (2 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (5 months ago)
@@ -26,14 +26,14 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.1](https://github.com/CuyZ/Valinor/releases/tag/2.6.1), 2 days ago)
-- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.4.1](https://github.com/devnix/burnbar/releases/tag/0.4.1), 4 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.1](https://github.com/CuyZ/Valinor/releases/tag/2.6.1), 3 days ago)
+- [devnix/burnbar](https://github.com/devnix/burnbar) ([0.4.1](https://github.com/devnix/burnbar/releases/tag/0.4.1), 5 days ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 1 week ago)
-- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 1 month ago)
+- [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 2 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 2 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 6 months ago)
 - [devnix/msteams-exporter](https://github.com/devnix/msteams-exporter) ([0.1.1](https://github.com/devnix/msteams-exporter/releases/tag/0.1.1), 8 months ago)
-- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 9 months ago)
+- [devnix/clover-uncovered-lines](https://github.com/devnix/clover-uncovered-lines) ([0.1.1](https://github.com/devnix/clover-uncovered-lines/releases/tag/0.1.1), 10 months ago)
 - [devnix/psl-sentry-integration](https://github.com/devnix/psl-sentry-integration) ([0.3.0](https://github.com/devnix/psl-sentry-integration/releases/tag/0.3.0), 10 months ago)
 
 ---
@@ -55,8 +55,8 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [feat: make every bar optional with a width of 0](https://github.com/devnix/burnbar/pull/13) on [devnix/burnbar](https://github.com/devnix/burnbar) (5 days ago)
-- [feat: show the git branch, shorten $HOME to ~ in {cwd}](https://github.com/devnix/burnbar/pull/12) on [devnix/burnbar](https://github.com/devnix/burnbar) (5 days ago)
+- [feat: make every bar optional with a width of 0](https://github.com/devnix/burnbar/pull/13) on [devnix/burnbar](https://github.com/devnix/burnbar) (6 days ago)
+- [feat: show the git branch, shorten $HOME to ~ in {cwd}](https://github.com/devnix/burnbar/pull/12) on [devnix/burnbar](https://github.com/devnix/burnbar) (6 days ago)
 - [fix!: restart the cache timer only on evidence, never guess the TTL](https://github.com/devnix/burnbar/pull/11) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
 - [feat: show a stale spend reading with ~, back off failed refreshes](https://github.com/devnix/burnbar/pull/10) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
 - [feat: daily {miss} prices from models.dev](https://github.com/devnix/burnbar/pull/9) on [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
