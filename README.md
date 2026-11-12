@@ -55,7 +55,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔨 My recent Pull Requests
 
-- [fix(analyzer): substitute receiver templates in Closure::fromCallable (#2683)](https://github.com/carthage-software/mago/pull/2684) on [carthage-software/mago](https://github.com/carthage-software/mago) (2 days ago)
+- [fix(analyzer): substitute receiver templates in Closure::fromCallable (#2683)](https://github.com/carthage-software/mago/pull/2684) on [carthage-software/mago](https://github.com/carthage-software/mago) (3 days ago)
 - [feat: make every bar optional with a width of 0](https://github.com/devnix/burnbar/pull/13) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
 - [feat: show the git branch, shorten $HOME to ~ in {cwd}](https://github.com/devnix/burnbar/pull/12) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
 - [fix!: restart the cache timer only on evidence, never guess the TTL](https://github.com/devnix/burnbar/pull/11) on [devnix/burnbar](https://github.com/devnix/burnbar) (1 week ago)
