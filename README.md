@@ -26,7 +26,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 
 #### 🔭 Latest releases I've contributed to
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.6.1](https://github.com/CuyZ/Valinor/releases/tag/2.6.1), 1 week ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.7.0](https://github.com/CuyZ/Valinor/releases/tag/2.7.0), today)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.4.1](https://github.com/devnix/burnbar/releases/tag/0.4.1), 1 week ago)
 - [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 2 weeks ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 2 months ago)
