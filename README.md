@@ -12,7 +12,7 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 #### 💻 What I'm currently working on
 
 - [devnix/burnbar](https://github.com/devnix/burnbar) (3 weeks ago)
-- [devnix/skills](https://github.com/devnix/skills) (3 weeks ago)
+- [devnix/skills](https://github.com/devnix/skills) (4 weeks ago)
 - [CuyZ/Valinor](https://github.com/CuyZ/Valinor) (3 months ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) (5 months ago)
 - [devnix/fistro-public-license](https://github.com/devnix/fistro-public-license) (6 months ago)
@@ -20,15 +20,15 @@ I'm a software developer who enjoys open source and talking about PHP. A few thi
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) (6 months ago)
 - [phpstan/phpstan-src](https://github.com/phpstan/phpstan-src) (6 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) (7 months ago)
-- [devnix/php-skills](https://github.com/devnix/php-skills) (7 months ago)
+- [devnix/php-skills](https://github.com/devnix/php-skills) (8 months ago)
 
 ---
 
 #### 🔭 Latest releases I've contributed to
 
-- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.8.0](https://github.com/CuyZ/Valinor/releases/tag/2.8.0), 5 days ago)
+- [CuyZ/Valinor](https://github.com/CuyZ/Valinor) ([2.8.0](https://github.com/CuyZ/Valinor/releases/tag/2.8.0), 6 days ago)
 - [devnix/burnbar](https://github.com/devnix/burnbar) ([0.4.1](https://github.com/devnix/burnbar/releases/tag/0.4.1), 3 weeks ago)
-- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 3 weeks ago)
+- [php-standard-library/php-standard-library](https://github.com/php-standard-library/php-standard-library) ([6.4.2](https://github.com/php-standard-library/php-standard-library/releases/tag/6.4.2), 4 weeks ago)
 - [AvaiBookSports/omnipay-paypal-checkout](https://github.com/AvaiBookSports/omnipay-paypal-checkout) ([0.2](https://github.com/AvaiBookSports/omnipay-paypal-checkout/releases/tag/0.2), 2 months ago)
 - [thephpleague/flysystem-bundle](https://github.com/thephpleague/flysystem-bundle) ([3.7.1](https://github.com/thephpleague/flysystem-bundle/releases/tag/3.7.1), 3 months ago)
 - [AvaiBookSports/omnipay-redsys](https://github.com/AvaiBookSports/omnipay-redsys) ([0.2](https://github.com/AvaiBookSports/omnipay-redsys/releases/tag/0.2), 6 months ago)
